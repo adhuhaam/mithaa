@@ -23,11 +23,16 @@
       },
       "bundleIdentifier": "com.mithaa.menu",
       "supportsTablet": false,
-      "buildNumber":"1.1"
+      "buildNumber": "1.1"
     },
     "android": {
       "package": "com.mithaa.menu"
     },
-    "description": ""
+    "description": "",
+    "extra": {
+      "eas": {
+        "projectId": "ed2e257a-ed5d-4c70-b2b2-15a41d13c801"
+      }
+    }
   }
 }
